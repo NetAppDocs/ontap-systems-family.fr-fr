@@ -1,0 +1,15 @@
+---
+layout: product-family 
+permalink: index.html 
+lead: The NetApp AFF and FAS storage systems offer storage and application data management services for high-bandwidth applications that need simple, easy to manage, and all-flash storage with enterprise-grade reliability. 
+summary: 'Les systèmes de stockage NetApp AFF et FAS fournissent des services de stockage et de gestion des données applicatives pour les applications à large bande passante qui nécessitent un stockage simple, facile à gérer et 100 % Flash avec une fiabilité haute performance.' 
+---
+= Documentation AFF et FAS
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
