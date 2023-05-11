@@ -10,8 +10,6 @@
   <block id="3c6f546d42200583dd3ef64c44a12306" category="section-title">Systèmes FAS 100 % Flash (AFF)</block>
   <block id="223ef00238c9b7a5c70952ac89019615" category="paragraph">Les systèmes AFF basés sur NVMe constituent une architecture scale-out robuste conçue pour les environnements virtualisés. Ils peuvent être déployés en tant que système indépendant ou Tier haute performance dans une configuration NetApp ONTAP.</block>
   <block id="8977f307824a451c0aee8f74c26d4135" category="paragraph">Les configurations FAS 100 % Flash sont idéales pour les applications stratégiques : elles prennent en charge de nombreuses charges de travail, notamment les infrastructures de postes de travail virtuels (VDI) et les bases de données qui exigent de hautes performances, une latence faible et une grande fiabilité.</block>
-  <block id="8b8f0b3a15c5a759df893ab159a9dd8e" category="inline-link">Lire la fiche technique AFF</block>
-  <block id="edea91522f14fdffcc980d8465add3b1" category="paragraph"><block ref="ea1915011593f20bb5a7853a6a5bb1eb" category="inline-link-rx"></block>.</block>
   <block id="2d69532c2bc4914b794c51462df97ff8" category="section-title">Systèmes FAS Flash hybrides</block>
   <block id="5ab178f682531bfb5e673ff1b9e3d1f4" category="paragraph">Les systèmes FAS Flash hybrides sont une plateforme matérielle créée pour les environnements SAN et NAS partagés et consolidés qui requièrent une gestion avancée des données et une connexion simple au cloud.</block>
   <block id="6ba8a0dc29ca1ad626a611908a5cf95f" category="paragraph">Avec son matériel hautement disponible, les systèmes FAS Flash hybrides répondent de façon économique aux exigences des charges de travail en combinant la combinaison idéale de disques rotatifs traditionnels et Flash, Il constitue la solution idéale pour la sauvegarde et la conservation, la consolidation des applications métier générales et le contenu distribué.</block>
@@ -64,6 +62,7 @@
   <block id="d5b36810f407899aa4d760770797c7eb" category="sidebar">Installez, mettez à niveau et maintenez vos commutateurs de cluster et de stockage.</block>
   <block id="18f57d600a92c92b9c8e184c2871790b" category="sidebar">ONTAP MetroCluster</block>
   <block id="32a7a83439c989b80eeca364a3b4149c" category="sidebar">Installez, mettez à niveau ou développez vos configurations MetroCluster et effectuez une reprise après incident.</block>
-  <block id="eb75aeb3b4b2b9734ba3e52f5483f0b2" category="sidebar">Documentation ONTAP</block>
-  <block id="8005bf029d4b2e78ade8d024d73dbce2" category="sidebar">Consultez la documentation ONTAP pour obtenir des informations sur la configuration de ONTAP, le provisionnement du stockage pour les clients, ainsi que sur la protection et la gestion de vos données via System Manager ou l'interface de ligne de commandes.</block>
+  <block id="89392af5eda25c825021d432ddf93588" category="inline-link">Consultez la fiche technique AFF A-Series</block>
+  <block id="4ba32667802f0b1a025017cfc6aed8c5" category="inline-link">Lire la fiche technique AFF C-Series</block>
+  <block id="3017e986a1affd8067036e1a51295fdf" category="paragraph"><block ref="56354ddbfd942daf4a7f0a154d6b237e" category="inline-link-rx"></block> et<block ref="589bc220bfa55a5bb8d6785946afbc2e" category="inline-link-rx"></block>.</block>
 </blocks>

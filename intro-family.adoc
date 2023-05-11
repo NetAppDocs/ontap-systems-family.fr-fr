@@ -24,7 +24,7 @@ Les systèmes AFF basés sur NVMe constituent une architecture scale-out robuste
 
 Les configurations FAS 100 % Flash sont idéales pour les applications stratégiques : elles prennent en charge de nombreuses charges de travail, notamment les infrastructures de postes de travail virtuels (VDI) et les bases de données qui exigent de hautes performances, une latence faible et une grande fiabilité.
 
-https://www.netapp.com/pdf.html?item=/media/7828-ds-3582.pdf["Lire la fiche technique AFF"^].
+https://["Consultez la fiche technique AFF A-Series"^] et https://["Lire la fiche technique AFF C-Series"^].
 
 
 
@@ -34,7 +34,7 @@ Les systèmes FAS Flash hybrides sont une plateforme matérielle créée pour le
 
 Avec son matériel hautement disponible, les systèmes FAS Flash hybrides répondent de façon économique aux exigences des charges de travail en combinant la combinaison idéale de disques rotatifs traditionnels et Flash, Il constitue la solution idéale pour la sauvegarde et la conservation, la consolidation des applications métier générales et le contenu distribué.
 
-https://www.netapp.com/pdf.html?item=/media/19763-ds-3829.pdf["Lire la fiche technique FAS"^]
+https://["Lire la fiche technique FAS"^]
 
 
 
@@ -44,7 +44,7 @@ Les systèmes de stockage AFF et FAS configurés avec la fonctionnalité MetroCl
 
 Contrairement aux solutions standard de réplication des données, MetroCluster fonctionne en toute transparence avec l'environnement hôte sans qu'il soit nécessaire de créer ou de gérer des scripts de basculement complexes.
 
-https://www.netapp.com/pdf.html?item=/media/13480-tr4705.pdf["En savoir plus sur MetroCluster"^]
+https://["En savoir plus sur MetroCluster"^]
 
 
 
@@ -52,13 +52,13 @@ https://www.netapp.com/pdf.html?item=/media/13480-tr4705.pdf["En savoir plus sur
 
 Le logiciel de gestion des données ONTAP est le logiciel de stockage en cluster sur lequel s'appuient les systèmes AFF et FAS. Grâce à un espace de noms global prenant en charge jusqu'à 24 nœuds AFF et FAS de tous types, le logiciel ONTAP prend en charge le stockage unifié (bloc et fichier), ce qui permet une consolidation significative des charges de travail que vous pouvez gérer à l'aide de l'interface graphique de ONTAP System Manager.
 
-https://www.netapp.com/pdf.html?item=/media/7413-ds-3231.pdf["Lire la fiche technique ONTAP"^].
+https://["Lire la fiche technique ONTAP"^].
 
 
 
 == Pour en savoir plus
 
-* https://docs.netapp.com/us-en/ontap-systems/index.html["Documents AFF et FAS"^]
-* https://docs.netapp.com/us-en/ontap-metrocluster/index.html["Documentation MetroCluster"^]
-* https://docs.netapp.com/us-en/ontap/index.html["Documentation ONTAP"^]
+* https://["Documents AFF et FAS"^]
+* https://["Documentation MetroCluster"^]
+* https://["Documentation ONTAP"^]
 
