@@ -1,10 +1,10 @@
 ---
 layout: product-family 
 permalink: index.html 
-lead: The NetApp AFF and FAS storage systems offer storage and application data management services for high-bandwidth applications that need simple, easy to manage, and all-flash storage with enterprise-grade reliability. 
-summary: 'Les systèmes de stockage NetApp AFF et FAS fournissent des services de stockage et de gestion des données applicatives pour les applications à large bande passante qui nécessitent un stockage simple, facile à gérer et 100 % Flash avec une fiabilité haute performance.' 
+lead: 'NetApp"s ONTAP AFF, FAS, and ASA hardware storage systems offer storage and application data management services for high-bandwidth applications that need simple, easy to manage, and all-flash storage with enterprise-grade reliability.' 
+summary: 'Les systèmes matériels de stockage ONTAP AFF, FAS et ASA de NetApp offrent des services de gestion du stockage et des données d"application pour les applications à large bande passante qui nécessitent un stockage 100 % Flash, simple, facile à gérer et extrêmement fiable.' 
 ---
-= Documentation AFF et FAS
+= Documentation des systèmes matériels ONTAP
 :hardbreaks:
 :allow-uri-read: 
 :nofooter: 

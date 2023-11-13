@@ -10,7 +10,7 @@ settings:
   langs: fr-fr,us-en,ja-jp,ko-kr,zh-cn,zh-tw,de-de,es-es,it-it
 sidebar:
   entries:
-  - title: Documentation AFF et FAS
+  - title: Documentation des systèmes matériels ONTAP
     url: "/index.html"
 product-family:
   sidebarlinks:
@@ -24,20 +24,20 @@ product-family:
   - title: Mise à niveau du système
     tags: tag_storage_upgrade
   tiles:
-  - title: Découvrez AFF et FAS
+  - title: En savoir plus sur les systèmes matériels ONTAP
     icon: "./media/family.png"
     url: intro-family.html
-    summary: Découvrez la gamme de systèmes de stockage AFF et FAS.
+    summary: En savoir plus sur les systèmes matériels ONTAP.
     tags: all, tag_get_started
-  - title: Installation et maintenance de AFF et FAS
+  - title: Installer et entretenir
     icon: "./media/icon-onprem.png"
     url: https://docs.netapp.com/us-en/ontap-systems/index.html
-    summary: Installez et gérez vos baies AFF, FAS ou SAN.
+    summary: Installez et entretenez votre matériel ONTAP.
     tags: all, tag_storage_hardware
-  - title: Mise à niveau de AFF et FAS
+  - title: Mise à niveau
     icon: "./media/upgrade.png"
     url: https://docs.netapp.com/us-en/ontap-systems-upgrade/index.html
-    summary: Mettez à niveau vos systèmes de stockage AFF et FAS.
+    summary: Mettez à niveau votre matériel ONTAP.
     tags: all, tag_storage_upgrade
   - title: Commutateurs de cluster et de stockage
     icon: "./media/switch.png"
