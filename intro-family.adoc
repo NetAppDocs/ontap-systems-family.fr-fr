@@ -10,6 +10,7 @@ summary: 'La gamme de systèmes de stockage ONTAP de NetApp est conçue pour les
 :imagesdir: ./media/
 
 
+[role="lead"]
 Les systèmes matériels ONTAP de NetApp sont conçus pour les applications d'entreprise qui nécessitent un stockage facile à gérer, rapide et sécurisé, une fiabilité de grande qualité et un accès continu aux données.
 
 Les systèmes matériels ONTAP de NetApp sont disponibles en configurations 100 % Flash (AFF), Flash hybride et HDD uniquement (FAS). Vous pouvez ainsi choisir la combinaison de supports de stockage qui répond le mieux à vos besoins en termes de performances, de capacité et de coût.
@@ -28,7 +29,7 @@ https://www.netapp.com/pdf.html?item=/media/7828-DS-3582-AFF-A-Series.pdf["Consu
 
 
 
-== Tous les systèmes de baies SAN (ASA)
+== Baies SAN 100 % Flash (ASA)
 
 La baie SAN 100 % Flash (ASA) NetApp assure une expérience SAN simplifiée et dédiée en fournissant une disponibilité continue des données dans le cadre de bases de données d'entreprise stratégiques et d'autres workloads SAN via le protocole FCP ou iSCSI.
 

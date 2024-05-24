@@ -59,7 +59,6 @@
   <block id="854c844bc4fd6abc91a977f49db56a07" category="paragraph">Les systèmes matériels ONTAP de NetApp sont conçus pour les applications d'entreprise qui nécessitent un stockage facile à gérer, rapide et sécurisé, une fiabilité de grande qualité et un accès continu aux données.</block>
   <block id="92c71332ca57dee04135a2037db6113d" category="paragraph">Les systèmes matériels ONTAP de NetApp sont disponibles en configurations 100 % Flash (AFF), Flash hybride et HDD uniquement (FAS). Vous pouvez ainsi choisir la combinaison de supports de stockage qui répond le mieux à vos besoins en termes de performances, de capacité et de coût.</block>
   <block id="3732021d709f401480670fe0967338ce" category="paragraph">Vous pouvez mettre en cluster plusieurs combinaisons de modèles pour exécuter des charges de travail mixtes sur le même système de stockage et créer votre environnement en ajoutant un stockage nouvelle génération doté des dernières technologies.</block>
-  <block id="1bca200f5a2f620714b2ee8b86ec36f2" category="section-title">Tous les systèmes de baies SAN (ASA)</block>
   <block id="172f4b9c0cae1bff93aa1f4793e65421" category="paragraph">La baie SAN 100 % Flash (ASA) NetApp assure une expérience SAN simplifiée et dédiée en fournissant une disponibilité continue des données dans le cadre de bases de données d'entreprise stratégiques et d'autres workloads SAN via le protocole FCP ou iSCSI.</block>
   <block id="aec950ad3eb8e00365bee35dd403ea61" category="inline-link">Lire la fiche technique ASA</block>
   <block id="42fa76a7b072e3d32194f9e32ee843c3" category="paragraph"><block ref="42fa76a7b072e3d32194f9e32ee843c3" category="inline-link-rx"></block></block>
@@ -72,4 +71,5 @@
   <block id="345144a7a37c16195cdc0333ceebb0a8" category="sidebar">Installez et entretenez votre matériel ONTAP.</block>
   <block id="f683581d3e75f05f9d9215f9b4696cef" category="sidebar">Mise à niveau</block>
   <block id="273baa0433bc0b2ead69ee760355071e" category="sidebar">Mettez à niveau votre matériel ONTAP.</block>
+  <block id="f40344306e48f0136b4a528e6200d2ed" category="section-title">Baies SAN 100 % Flash (ASA)</block>
 </blocks>

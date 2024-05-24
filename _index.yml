@@ -1,0 +1,49 @@
+---
+product-family:
+  title: Documentation des systèmes matériels ONTAP
+  lead: Les systèmes matériels de stockage ONTAP AFF, FAS et ASA de NetApp offrent
+    des services de gestion du stockage et des données d'application pour les applications
+    à large bande passante qui nécessitent un stockage 100 % Flash, simple, facile
+    à gérer et extrêmement fiable.
+  summary: Les systèmes matériels de stockage ONTAP AFF, FAS et ASA de NetApp offrent
+    des services de gestion du stockage et des données d'application pour les applications
+    à large bande passante qui nécessitent un stockage 100 % Flash, simple, facile
+    à gérer et extrêmement fiable.
+  sidebarlinks:
+  - title: Tout
+    tags: tag_all
+    class: active
+  - title: Commencez
+    tags: tag_get_started
+  - title: Matériel du système
+    tags: tag_storage_hardware
+  - title: Mise à niveau du système
+    tags: tag_storage_upgrade
+  tiles:
+  - title: En savoir plus sur les systèmes matériels ONTAP
+    icon: "./media/family.png"
+    url: intro-family.html
+    summary: En savoir plus sur les systèmes matériels ONTAP.
+    tags: tag_all, tag_get_started, tag_storage_hardware, tag_storage_upgrade
+  - title: Installer et entretenir
+    icon: "./media/icon-onprem.png"
+    url: "../ontap-systems/index.html"
+    summary: Installez et entretenez votre matériel ONTAP.
+    tags: tag_all, tag_storage_hardware
+  - title: Mise à niveau
+    icon: "./media/upgrade.png"
+    url: "../ontap-systems-upgrade/index.html"
+    summary: Mettez à niveau votre matériel ONTAP.
+    tags: tag_all, tag_storage_upgrade
+  - title: Commutateurs de cluster et de stockage
+    icon: "./media/switch.png"
+    url: "../ontap-systems-switches/index.html"
+    summary: Installez, mettez à niveau et maintenez vos commutateurs de cluster et
+      de stockage.
+    tags: tag_all, tag_storage_hardware, tag_storage_upgrade
+  - title: ONTAP MetroCluster
+    icon: "./media/metrocluster.png"
+    url: "../ontap-metrocluster/index.html"
+    summary: Installez, mettez à niveau ou développez vos configurations MetroCluster
+      et effectuez une reprise après incident.
+    tags: tag_all, tag_storage_upgrade
