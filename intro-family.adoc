@@ -25,7 +25,9 @@ Les systèmes AFF basés sur NVMe constituent une architecture scale-out robuste
 
 Les configurations FAS 100 % Flash sont idéales pour les applications stratégiques : elles prennent en charge de nombreuses charges de travail, notamment les infrastructures de postes de travail virtuels (VDI) et les bases de données qui exigent de hautes performances, une latence faible et une grande fiabilité.
 
-https://www.netapp.com/pdf.html?item=/media/7828-DS-3582-AFF-A-Series.pdf["Consultez la fiche technique AFF A-Series"^] et https://www.netapp.com/media/81583-da-4240-aff-c-series.pdf["Lire la fiche technique AFF C-Series"^].
+* https://www.netapp.com/pdf.html?item=/media/7828-DS-3582-AFF-A-Series.pdf["Lire la fiche technique AFF A-Series"^]
+* https://www.netapp.com/media/81583-da-4240-aff-c-series.pdf["Lire la fiche technique AFF C-Series"^]
+
 
 
 
@@ -33,7 +35,15 @@ https://www.netapp.com/pdf.html?item=/media/7828-DS-3582-AFF-A-Series.pdf["Consu
 
 La baie SAN 100 % Flash (ASA) NetApp assure une expérience SAN simplifiée et dédiée en fournissant une disponibilité continue des données dans le cadre de bases de données d'entreprise stratégiques et d'autres workloads SAN via le protocole FCP ou iSCSI.
 
-https://www.netapp.com/pdf.html?item=/media/19466-SB-4081.pdf["Lire la fiche technique ASA"^]
+.Systèmes ASA r2
+Les nouveaux systèmes NetApp ASA r2 (ASA A1K, ASA A70 et ASA A90) proposent une solution matérielle et logicielle unifiée qui simplifie l'expérience en fonction des besoins des clients qui utilisent exclusivement SAN.
+
+Sur un système ASA r2, le logiciel ONTAP et System Manager sont optimisés pour prendre en charge les fonctionnalités SAN essentielles tout en supprimant la visibilité sur les fonctionnalités non prises en charge dans les environnements SAN.
+
+* https://www.netapp.com/data-storage/all-flash-san-storage-array/["Lire la fiche technique ASA"^]
+* En savoir plus sur le link:https://docs.netapp.com/us-en/asa-r2/learn-more/hardware-comparison.html["Nouveaux systèmes ASA r2 par rapport aux systèmes ASA"^]
+* Consultez la prise en charge complète de la configuration et les limites des systèmes ASA et ASA r2 dans https://hwu.netapp.com/["NetApp Hardware Universe"^]
+
 
 
 
@@ -61,13 +71,10 @@ https://www.netapp.com/pdf.html?item=/media/13480-tr4705.pdf["En savoir plus sur
 
 Le logiciel de gestion des données ONTAP est le logiciel de stockage en cluster qui exécute les systèmes matériels ONTAP. Avec un espace de noms global prenant en charge jusqu'à 24 nœuds matériels de tous types, le logiciel ONTAP prend en charge le stockage unifié (bloc et fichier). Vous pouvez ainsi gérer une consolidation importante des workloads à l'aide de l'interface graphique de ONTAP System Manager.
 
-https://www.netapp.com/pdf.html?item=/media/7413-ds-3231.pdf["Lire la fiche technique ONTAP"^].
+https://www.netapp.com/pdf.html?item=/media/7413-ds-3231.pdf["Lire la fiche technique du logiciel ONTAP"^]
 
-
-
-== Pour en savoir plus
-
-* https://docs.netapp.com/us-en/ontap-systems/index.html["Documents AFF et FAS"^]
+.Pour en savoir plus
+* https://docs.netapp.com/us-en/ontap-systems/index.html["Documents sur les systèmes matériels ONTAP"^]
 * https://docs.netapp.com/us-en/ontap-metrocluster/index.html["Documentation MetroCluster"^]
 * https://docs.netapp.com/us-en/ontap/index.html["Documentation ONTAP"^]
 
