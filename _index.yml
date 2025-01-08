@@ -25,22 +25,10 @@ product-family:
     url: intro-family.html
     summary: En savoir plus sur les systèmes matériels ONTAP.
     tags: tag_all, tag_get_started, tag_storage_hardware, tag_storage_upgrade
-  - title: Systèmes AFF
+  - title: Installation et maintenance des systèmes matériels ONTAP
     icon: "./media/icon-onprem.png"
-    url: "../ontap-systems/aff-landing/index.html"
-    summary: Installation et maintenance de vos systèmes AFF
-  - title: Systèmes ASA
-    icon: "./media/icon-onprem.png"
-    url: "../ontap-systems/allsan-landing/index.html"
-    summary: Installation et maintenance de vos systèmes ASA
-  - title: Systèmes FAS
-    icon: "./media/icon-onprem.png"
-    url: "../ontap-systems/fas/index.html"
-    summary: Installation et maintenance de vos systèmes FAS
-  - title: Systèmes ASA r2
-    icon: "./media/icon-onprem.png"
-    url: "../ontap-systems/asa-r2/index.html"
-    summary: Installez et utilisez vos systèmes ASA r2.
+    url: "../ontap-systems/index.html"
+    summary: Installation et maintenance des systèmes matériels ONTAP
     tags: tag_all, tag_storage_hardware
   - title: Mettez à niveau les systèmes matériels ONTAP
     icon: "./media/upgrade.png"
