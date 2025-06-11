@@ -25,7 +25,7 @@ Les systèmes AFF basés sur NVMe constituent une architecture scale-out robuste
 
 Les configurations FAS 100 % Flash sont idéales pour les applications stratégiques : elles prennent en charge de nombreuses charges de travail, notamment les infrastructures de postes de travail virtuels (VDI) et les bases de données qui exigent de hautes performances, une latence faible et une grande fiabilité.
 
-* https://www.netapp.com/pdf.html?item=/media/7828-DS-3582-AFF-A-Series.pdf["Lire la fiche technique AFF A-Series"^]
+* https://www.netapp.com/pdf.html?item=/media/7828-ds-3582-aff-a-series-ai-era.pdf["Lire la fiche technique AFF A-Series"^]
 * https://www.netapp.com/media/81583-da-4240-aff-c-series.pdf["Lire la fiche technique AFF C-Series"^]
 
 
