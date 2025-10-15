@@ -1,14 +1,14 @@
 ---
 product-family:
   title: Documentation des systèmes matériels ONTAP
-  lead: Les systèmes matériels de stockage ONTAP AFF, FAS et ASA de NetApp offrent
-    des services de gestion du stockage et des données d'application pour les applications
-    à large bande passante qui nécessitent un stockage 100 % Flash, simple, facile
-    à gérer et extrêmement fiable.
-  summary: Les systèmes matériels de stockage ONTAP AFF, FAS et ASA de NetApp offrent
-    des services de gestion du stockage et des données d'application pour les applications
-    à large bande passante qui nécessitent un stockage 100 % Flash, simple, facile
-    à gérer et extrêmement fiable.
+  lead: Les systèmes de stockage matériel ONTAP de NetApp offrent des services de
+    stockage et de gestion des données d'application pour les applications à large
+    bande passante qui nécessitent un stockage simple, facile à gérer et entièrement
+    flash avec une fiabilité de niveau entreprise.
+  summary: Les systèmes de stockage matériel ONTAP de NetApp offrent des services
+    de stockage et de gestion des données d'application pour les applications à large
+    bande passante qui nécessitent un stockage simple, facile à gérer et entièrement
+    flash avec une fiabilité de niveau entreprise.
   sidebarlinks:
   - title: Tout
     tags: tag_all

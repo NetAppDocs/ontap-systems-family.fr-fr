@@ -1,6 +1,6 @@
 ---
 permalink: intro-family.html 
-keywords: introduction, what is ONTAP systems, AFF, FAS, ASA, all-flash, ONTAP 
+keywords: introduction, what is ONTAP systems, AFF, AFX, FAS, ASA, all-flash, ONTAP 
 summary: 'La gamme de systèmes de stockage ONTAP de NetApp est conçue pour les applications d"entreprise qui nécessitent un stockage facile à gérer, rapide et sécurisé, avec une fiabilité à toute épreuve et un accès continu aux données.' 
 ---
 = En savoir plus sur les systèmes matériels ONTAP
@@ -13,7 +13,7 @@ summary: 'La gamme de systèmes de stockage ONTAP de NetApp est conçue pour les
 [role="lead"]
 Les systèmes matériels ONTAP de NetApp sont conçus pour les applications d'entreprise qui nécessitent un stockage facile à gérer, rapide et sécurisé, une fiabilité de grande qualité et un accès continu aux données.
 
-Les systèmes matériels ONTAP de NetApp sont disponibles en configurations 100 % Flash (AFF), Flash hybride et HDD uniquement (FAS). Vous pouvez ainsi choisir la combinaison de supports de stockage qui répond le mieux à vos besoins en termes de performances, de capacité et de coût.
+Les systèmes matériels ONTAP de NetApp sont disponibles dans des configurations entièrement flash, flash hybride et disque dur uniquement, vous offrant la possibilité de choisir le mix de supports de stockage qui répond le mieux à vos exigences de performances, de capacité et de coût.
 
 Vous pouvez mettre en cluster plusieurs combinaisons de modèles pour exécuter des charges de travail mixtes sur le même système de stockage et créer votre environnement en ajoutant un stockage nouvelle génération doté des dernières technologies.
 
@@ -31,12 +31,22 @@ Les configurations FAS 100 % Flash sont idéales pour les applications stratégi
 
 
 
+== AFX
+
+NetApp AFX est un système de stockage entièrement flash désagrégé de niveau entreprise qui offre tous les avantages de performances des systèmes de fichiers parallèles et des solutions de stockage IA de niche, mais sur une plate-forme de niveau entreprise simple, sécurisée et entièrement intégrée.
+
+* https://www.netapp.com/pdf.html?item=/media/142853-ds-3466-netapp-afx-datasheet.pdf["Lire la fiche technique AFX"^]
+* https://docs.netapp.com/us-en/ontap-afx/get-started/ontap-afx-storage.html["En savoir plus sur le stockage AFX"^]
+
+
+
+
 == Baies SAN 100 % Flash (ASA)
 
 La baie SAN 100 % Flash (ASA) NetApp assure une expérience SAN simplifiée et dédiée en fournissant une disponibilité continue des données dans le cadre de bases de données d'entreprise stratégiques et d'autres workloads SAN via le protocole FCP ou iSCSI.
 
 .Systèmes ASA r2
-Les nouveaux systèmes NetApp ASA r2 (ASA A1K, ASA A70 et ASA A90) proposent une solution matérielle et logicielle unifiée qui simplifie l'expérience en fonction des besoins des clients qui utilisent exclusivement SAN.
+Les nouveaux systèmes NetApp ASA r2 (ASA A1K, ASA A70, ASA A90, ASA A20, ASA A30, ASA A50 et C30) offrent une solution matérielle et logicielle unifiée qui crée une expérience simplifiée spécifique aux besoins des clients SAN uniquement.
 
 Sur un système ASA r2, le logiciel ONTAP et System Manager sont optimisés pour prendre en charge les fonctionnalités SAN essentielles tout en supprimant la visibilité sur les fonctionnalités non prises en charge dans les environnements SAN.
 
